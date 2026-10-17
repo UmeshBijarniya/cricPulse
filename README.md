@@ -1,3 +1,5 @@
+chick to see live demo: https://cricpulse-602c.onrender.com
+
 # 🏏 CricPulse — Live Cricket Match Center & Smart Analytics Tracker
 
 A production-grade, intermediate-level real-time cricket match dashboard and smart analytics tracker built with **React 19**, **TypeScript**, **Tailwind CSS**, **Chart.js**, **Zustand**, and a **Node.js Express WebSocket** match simulation engine.
